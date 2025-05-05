@@ -19,9 +19,12 @@ body {
     background-color: #3498db;
     color: white;
     cursor: pointer;
+    transition: ease 0.3s;
   }
   
   button:hover {
-    background-color: #2980b9;
+    transition: ease 0.3s;
+    background-color: #00426d;
+    border-color: #3498db;
   }
   
